@@ -1,4 +1,4 @@
-# A Realistic elevator made by ComputerCraft and Create in Minecraft
+# A realistic elevator made by ComputerCraft and Create in Minecraft
 Using LOOK scheduling algorithm.
 ### Screenshot:
 ![](pic.png)
